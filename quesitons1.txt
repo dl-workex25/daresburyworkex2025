@@ -1,0 +1,1996 @@
+hashed_id
+No Group
+school_classification_list
+No Group
+school_local_authority_filter_classification
+No Group
+questionnaire_login_year_group_name
+No Group
+What is your gender?
+No Group
+Is your gender identity the same gender you were assigned at birth? 
+No Group
+How would you describe your sexual identity?
+No Group
+Which of these describes you?
+No Group
+Do you consider yourself to be disabled?
+No Group
+If you said yes, you consider yourself to be disabled, what is the nature of your impairment?
+No Group
+Where do you live most of the time?
+No Group
+Do you have a free school meal?
+No Group
+Which of these describes you as a student?
+No Group
+Are you a...
+No Group
+DELETE - I would describe my gender in some other way
+No Group
+In a normal school/college week, how many days do you have breakfast?
+No Group
+On a normal school/college day, where do you eat breakfast?
+No Group
+Evening meal/Dinner
+In a normal school/college week, how many days do you have the following (this means not just a snack or a drink)?
+Lunch
+In a normal school/college week, how many days do you have the following (this means not just a snack or a drink)?
+High energy drinks 
+On a normal school/college day, how many portions of the following do you have?
+Snacks that are high in fat or high in sugar
+On a normal school/college day, how many portions of the following do you have?
+Unsweetened drinks (e.g. milk, water)
+On a normal school/college day, how many portions of the following do you have?
+Sugar Sweetened drinks
+On a normal school/college day, how many portions of the following do you have?
+Fruit and Vegetables
+On a normal school/college day, how many portions of the following do you have?
+How often do you brush your teeth?
+On a normal school/college day, how many portions of the following do you have?
+How often do you visit the dentist?
+On a normal school/college day, how many portions of the following do you have?
+My school/college encourages me to drink water regularly
+How much do you agree or disagree with the following statements?
+My school provides foods that match my cultural needs (e.g. Halal)
+How much do you agree or disagree with the following statements?
+At this school/college, I have enough time to eat my lunch
+How much do you agree or disagree with the following statements?
+I enjoy eating in my school/college dining area
+How much do you agree or disagree with the following statements?
+I can usually find a place to sit and eat my lunch in the dining area
+How much do you agree or disagree with the following statements?
+My school provides foods that match my dietary needs (e.g. Vegan)
+How much do you agree or disagree with the following statements?
+Queuing time is short in the dining area
+How much do you agree or disagree with the following statements?
+Pupils/students behave well in the dining area
+How much do you agree or disagree with the following statements?
+I like the food provided by my school/college
+How much do you agree or disagree with the following statements?
+How often do you have breakfast each week (this means not just a snack or a drink)?
+How much do you agree or disagree with the following statements?
+How many snacks (crisps, chocolate bar, packet of sweets, biscuits) do you eat a day?
+How much do you agree or disagree with the following statements?
+How many portions of fruit and vegetables do you eat a day (can include one medium glass of fruit juice)?
+How much do you agree or disagree with the following statements?
+How many sweetened drinks (e.g. Pepsi, fruit juice) do you drink a day
+How much do you agree or disagree with the following statements?
+How many unsweetened drinks (e.g. milk, water) do you drink a day?
+How much do you agree or disagree with the following statements?
+How many high energy drinks (e.g. Red Bull, Monster) do you drink a day?
+How much do you agree or disagree with the following statements?
+Do you brush your teeth every day?
+How much do you agree or disagree with the following statements?
+Do you go to the dentist?
+How much do you agree or disagree with the following statements?
+Do pupils/students behave well in the dining area?
+How much do you agree or disagree with the following statements?
+Do you enjoy eating in the school/college dining area?
+How much do you agree or disagree with the following statements?
+Do you like the food provided by your school/college and does it taste nice?
+How much do you agree or disagree with the following statements?
+Does your school/college encourage you to drink water regularly?
+How much do you agree or disagree with the following statements?
+Stressed or anxious
+How often do you feel the following?
+Confident
+How often do you feel the following?
+Bad tempered
+How often do you feel the following?
+Angry
+How often do you feel the following?
+Happy
+How often do you feel the following?
+Upset
+How often do you feel the following?
+Sad
+How often do you feel the following?
+Lonely
+How often do you feel the following?
+Scared
+How often do you feel the following?
+Calm
+How often do you feel the following?
+Sad
+How well do you think you cope with feeling the following?
+Bad tempered
+How well do you think you cope with feeling the following?
+Scared
+How well do you think you cope with feeling the following?
+Stressed
+How well do you think you cope with feeling the following?
+Lonely
+How well do you think you cope with feeling the following?
+Anxious
+How well do you think you cope with feeling the following?
+Angry
+How well do you think you cope with feeling the following?
+Upset
+How well do you think you cope with feeling the following?
+How happy do you feel about the number of good friends you have?
+How well do you think you cope with feeling the following?
+How much do you agree or disagree with the following statement 'I enjoy my life'?
+How well do you think you cope with feeling the following?
+In the last 12 months, how often (if at all) have you been bullied in or around school/college?
+How well do you think you cope with feeling the following?
+No reason
+If you have been bullied in or around school/college in the last 12 months, do you think it was because of any of the following?
+Weight
+If you have been bullied in or around school/college in the last 12 months, do you think it was because of any of the following?
+Biphobia
+If you have been bullied in or around school/college in the last 12 months, do you think it was because of any of the following?
+Transphobia
+If you have been bullied in or around school/college in the last 12 months, do you think it was because of any of the following?
+Because I have a free school meal
+If you have been bullied in or around school/college in the last 12 months, do you think it was because of any of the following?
+Marriage/Civil Partnership 
+If you have been bullied in or around school/college in the last 12 months, do you think it was because of any of the following?
+Having a disability or special need
+If you have been bullied in or around school/college in the last 12 months, do you think it was because of any of the following?
+Age
+If you have been bullied in or around school/college in the last 12 months, do you think it was because of any of the following?
+Pregnancy and Maternity 
+If you have been bullied in or around school/college in the last 12 months, do you think it was because of any of the following?
+A disability or impairment
+If you have been bullied in or around school/college in the last 12 months, do you think it was because of any of the following?
+Gender
+If you have been bullied in or around school/college in the last 12 months, do you think it was because of any of the following?
+Family members
+If you have been bullied in or around school/college in the last 12 months, do you think it was because of any of the following?
+Appearance
+If you have been bullied in or around school/college in the last 12 months, do you think it was because of any of the following?
+Family income
+If you have been bullied in or around school/college in the last 12 months, do you think it was because of any of the following?
+Religion
+If you have been bullied in or around school/college in the last 12 months, do you think it was because of any of the following?
+Personal hygiene
+If you have been bullied in or around school/college in the last 12 months, do you think it was because of any of the following?
+Other/don't know
+If you have been bullied in or around school/college in the last 12 months, do you think it was because of any of the following?
+Homophobia
+If you have been bullied in or around school/college in the last 12 months, do you think it was because of any of the following?
+A special need
+If you have been bullied in or around school/college in the last 12 months, do you think it was because of any of the following?
+Skin colour or race
+If you have been bullied in or around school/college in the last 12 months, do you think it was because of any of the following?
+Height
+If you have been bullied in or around school/college in the last 12 months, do you think it was because of any of the following?
+Would you know what to do if you or a friend was bullied?
+If you have been bullied in or around school/college in the last 12 months, do you think it was because of any of the following?
+Are you happy?
+If you have been bullied in or around school/college in the last 12 months, do you think it was because of any of the following?
+Have you got friends at school/college?
+If you have been bullied in or around school/college in the last 12 months, do you think it was because of any of the following?
+Have you got friends at home?
+If you have been bullied in or around school/college in the last 12 months, do you think it was because of any of the following?
+Have you ever been bullied in school/college?
+If you have been bullied in or around school/college in the last 12 months, do you think it was because of any of the following?
+Do you feel safe at home?
+If you have been bullied in or around school/college in the last 12 months, do you think it was because of any of the following?
+Do you worry about any of the following?
+If you have been bullied in or around school/college in the last 12 months, do you think it was because of any of the following?
+Have you ever hurt yourself on purpose? (Often referred to as self-harm)
+If you have been bullied in or around school/college in the last 12 months, do you think it was because of any of the following?
+If you have ever hurt yourself on purpose (often referred to as self-harm), which of the following statements describes you?
+If you have been bullied in or around school/college in the last 12 months, do you think it was because of any of the following?
+If you needed it, were you supported by school/college to help you deal with your self-harming?
+If you have been bullied in or around school/college in the last 12 months, do you think it was because of any of the following?
+Have you ever had an eating disorder? 
+If you have been bullied in or around school/college in the last 12 months, do you think it was because of any of the following?
+If you needed it, were you supported by school/college to help you deal with your eating disorder?
+If you have been bullied in or around school/college in the last 12 months, do you think it was because of any of the following?
+Have you ever thought about ending your life (this is known as having suicidal thoughts)?
+If you have been bullied in or around school/college in the last 12 months, do you think it was because of any of the following?
+Have you ever tried to end your life?
+If you have been bullied in or around school/college in the last 12 months, do you think it was because of any of the following?
+If you needed it, were you supported by school/college to help you deal with your suicidal thoughts or when you tried to end your life?
+If you have been bullied in or around school/college in the last 12 months, do you think it was because of any of the following?
+If you needed it, were you supported by school/college to help you deal with your suicidal thoughts?
+If you have been bullied in or around school/college in the last 12 months, do you think it was because of any of the following?
+How safe do you feel at home?
+If you have been bullied in or around school/college in the last 12 months, do you think it was because of any of the following?
+There are dangerous things in my home such as weapons
+Why do you feel unsafe at home?
+Because adults who come to my home hurt me
+Why do you feel unsafe at home?
+I have experienced abuse (mental, physical, or sexual abuse)
+Why do you feel unsafe at home?
+Other
+Why do you feel unsafe at home?
+Because there is arguing/fighting
+Why do you feel unsafe at home?
+Because someone bullies me at home
+Why do you feel unsafe at home?
+Because someone is unkind to me at home
+Why do you feel unsafe at home?
+There is lots of crime in my local area
+Why do you feel unsafe at home?
+There are adults who come to my home who make me feel unsafe
+Why do you feel unsafe at home?
+Because I was deliberately hurt by someone at home
+Why do you feel unsafe at home?
+Because other children in my home hurt me
+Why do you feel unsafe at home?
+On a normal school/college night (Sunday to Thursday) how many hours of sleep do you have?
+Why do you feel unsafe at home?
+On a normal school/college night (Sunday to Thursday) do you get 8 or more hours sleep?
+Why do you feel unsafe at home?
+have a mental health problem
+Do you help to look after somebody in your family because they?
+have  a disability
+Do you help to look after somebody in your family because they?
+are your child
+Do you help to look after somebody in your family because they?
+have a problem with drugs or alcohol
+Do you help to look after somebody in your family because they?
+other
+Do you help to look after somebody in your family because they?
+are too young to look after themselves (i.e. a brother or sister)
+Do you help to look after somebody in your family because they?
+are ill
+Do you help to look after somebody in your family because they?
+Within the last 12 months, has anyone close to you died?
+Do you help to look after somebody in your family because they?
+If you needed it, were you supported by school/college to help you deal with this death? (REMOVED Summer 23)
+Do you help to look after somebody in your family because they?
+If you needed it, were you supported by school/college to help you deal with this death?
+Do you help to look after somebody in your family because they?
+My disability
+Over the last 12 months have you worried about any of the following?
+A family member's gambling behaviour
+Over the last 12 months have you worried about any of the following?
+Money problems (mine/family members)
+Over the last 12 months have you worried about any of the following?
+Pressure to do the same as my friends
+Over the last 12 months have you worried about any of the following?
+Going to college/university
+Over the last 12 months have you worried about any of the following?
+Not having enough to eat because my family didn't have enough money for food
+Over the last 12 months have you worried about any of the following?
+A family member's use of drugs, alcohol or tobacco
+Over the last 12 months have you worried about any of the following?
+Feeling lonely
+Over the last 12 months have you worried about any of the following?
+My own use of drugs, alcohol or tobacco
+Over the last 12 months have you worried about any of the following?
+My own gambling behaviour
+Over the last 12 months have you worried about any of the following?
+Going to a new school
+Over the last 12 months have you worried about any of the following?
+The way I look
+Over the last 12 months have you worried about any of the following?
+I do not worry about anything
+Over the last 12 months have you worried about any of the following?
+Climate change
+Over the last 12 months have you worried about any of the following?
+Other
+Over the last 12 months have you worried about any of the following?
+Going places on my own
+Over the last 12 months have you worried about any of the following?
+Getting an apprenticeship
+Over the last 12 months have you worried about any of the following?
+Exams
+Over the last 12 months have you worried about any of the following?
+Romantic Partners
+Over the last 12 months have you worried about any of the following?
+Sex (STIs, pregnancy)
+Over the last 12 months have you worried about any of the following?
+Health problems (mine/family members)
+Over the last 12 months have you worried about any of the following?
+Housing
+Over the last 12 months have you worried about any of the following?
+My parent(s)/carer(s) or family
+Over the last 12 months have you worried about any of the following?
+Gender identity
+Over the last 12 months have you worried about any of the following?
+Not being accepted for who I am
+Over the last 12 months have you worried about any of the following?
+War
+Over the last 12 months have you worried about any of the following?
+Being bullied
+Over the last 12 months have you worried about any of the following?
+A separation
+Over the last 12 months have you worried about any of the following?
+A death
+Over the last 12 months have you worried about any of the following?
+Travelling to school/college
+Over the last 12 months have you worried about any of the following?
+Getting a job
+Over the last 12 months have you worried about any of the following?
+School/college work
+Over the last 12 months have you worried about any of the following?
+Friendships
+Over the last 12 months have you worried about any of the following?
+Arts and Crafts
+What helps you feel better when you are worried, sad, angry or lonely?
+Other
+What helps you feel better when you are worried, sad, angry or lonely?
+Spending time with pets
+What helps you feel better when you are worried, sad, angry or lonely?
+Social Media
+What helps you feel better when you are worried, sad, angry or lonely?
+Sleeping more
+What helps you feel better when you are worried, sad, angry or lonely?
+Playing or listening to music
+What helps you feel better when you are worried, sad, angry or lonely?
+Spending time with friends
+What helps you feel better when you are worried, sad, angry or lonely?
+Spending time with family
+What helps you feel better when you are worried, sad, angry or lonely?
+Community/Youth groups
+What helps you feel better when you are worried, sad, angry or lonely?
+Being outdoors
+What helps you feel better when you are worried, sad, angry or lonely?
+Being active
+What helps you feel better when you are worried, sad, angry or lonely?
+Mindfulness/Wellbeing activities
+What helps you feel better when you are worried, sad, angry or lonely?
+Attend counselling/contact support services
+What helps you feel better when you are worried, sad, angry or lonely?
+Online gaming - Xbox/PlayStation/Mobile phone
+What helps you feel better when you are worried, sad, angry or lonely?
+Reading books
+What helps you feel better when you are worried, sad, angry or lonely?
+Playing with friends
+What helps you feel better when you are worried, sad, angry or lonely?
+Cooking/Baking
+What helps you feel better when you are worried, sad, angry or lonely?
+I do not use anything to help me feel better
+What helps you feel better when you are worried, sad, angry or lonely?
+Watching TV/films/YouTube/Netflix
+What helps you feel better when you are worried, sad, angry or lonely?
+If you are worried, feel sad, angry or lonely about something, do you have anyone you can talk to? (REMOVED Summer 23)
+What helps you feel better when you are worried, sad, angry or lonely?
+I can talk to someone else e.g. Childline
+If you are worried, feel sad, angry or lonely about something, where do you get advice and support from?
+I can talk to my parent(s)/carer(s)
+If you are worried, feel sad, angry or lonely about something, where do you get advice and support from?
+I still need advice and support
+If you are worried, feel sad, angry or lonely about something, where do you get advice and support from?
+I do not need any advice or support
+If you are worried, feel sad, angry or lonely about something, where do you get advice and support from?
+I can talk to my friends
+If you are worried, feel sad, angry or lonely about something, where do you get advice and support from?
+I do not know where to get any advice and support
+If you are worried, feel sad, angry or lonely about something, where do you get advice and support from?
+Text support
+If you are worried, feel sad, angry or lonely about something, where do you get advice and support from?
+Online support (including online chat)
+If you are worried, feel sad, angry or lonely about something, where do you get advice and support from?
+I can talk to other adults
+If you are worried, feel sad, angry or lonely about something, where do you get advice and support from?
+I can talk to adults at school/college
+If you are worried, feel sad, angry or lonely about something, where do you get advice and support from?
+I can talk to other family members
+If you are worried, feel sad, angry or lonely about something, where do you get advice and support from?
+I can talk to my parents/carers/family members
+If I'm worried about something'
+I can talk to my friends
+If I'm worried about something'
+I can talk to adults at school/college
+If I'm worried about something'
+I can't talk to anyone
+If I'm worried about something'
+I can talk to other adults
+If I'm worried about something'
+My friends
+When I'm worried about something I can talk to'
+Adult(s) at school/college
+When I'm worried about something I can talk to'
+Other adult(s)
+When I'm worried about something I can talk to'
+My parent(s)/carer(s)
+When I'm worried about something I can talk to'
+Have you ever gambled?
+When I'm worried about something I can talk to'
+Do you still gamble?
+When I'm worried about something I can talk to'
+Do your parents/carers know about your gambling?
+When I'm worried about something I can talk to'
+Gambled for skins or cosmetics e.g. buy FIFA packs or loot boxes
+In the last 12 months, have you ever taken part in any of the following activities, either online or at a venue?
+Playing cards for money (e.g. poker, blackjack)
+In the last 12 months, have you ever taken part in any of the following activities, either online or at a venue?
+Any other betting or gambling activity
+In the last 12 months, have you ever taken part in any of the following activities, either online or at a venue?
+Placed a bet on a sporting event
+In the last 12 months, have you ever taken part in any of the following activities, either online or at a venue?
+Placing a private bet for money (e.g. with friends)
+In the last 12 months, have you ever taken part in any of the following activities, either online or at a venue?
+Fruit machine/Slot machines/other gambling machines
+In the last 12 months, have you ever taken part in any of the following activities, either online or at a venue?
+Roulette
+In the last 12 months, have you ever taken part in any of the following activities, either online or at a venue?
+Bingo
+In the last 12 months, have you ever taken part in any of the following activities, either online or at a venue?
+Purchased a national lottery scratch card or lotto
+In the last 12 months, have you ever taken part in any of the following activities, either online or at a venue?
+Esports betting 
+In the last 12 months, have you ever taken part in any of the following activities, either online or at a venue?
+Cryptocurreny/NFTs 
+In the last 12 months, have you ever taken part in any of the following activities, either online or at a venue?
+If you have (gambled) in the last 12 months were your parent(s)/carer(s) aware of this?
+In the last 12 months, have you ever taken part in any of the following activities, either online or at a venue?
+How do you usually travel to school/college?
+In the last 12 months, have you ever taken part in any of the following activities, either online or at a venue?
+I am not confident enough to cycle/walk/scoot
+What are the main reasons (barriers) that stop you from travelling actively to school/college (active travel includes walking, running, scooting and cycling)?
+It is too far
+What are the main reasons (barriers) that stop you from travelling actively to school/college (active travel includes walking, running, scooting and cycling)?
+I do not have time
+What are the main reasons (barriers) that stop you from travelling actively to school/college (active travel includes walking, running, scooting and cycling)?
+My siblings can’t travel actively
+What are the main reasons (barriers) that stop you from travelling actively to school/college (active travel includes walking, running, scooting and cycling)?
+I do not know the way
+What are the main reasons (barriers) that stop you from travelling actively to school/college (active travel includes walking, running, scooting and cycling)?
+My parent(s)/carer(s) won’t let me travel actively by myself
+What are the main reasons (barriers) that stop you from travelling actively to school/college (active travel includes walking, running, scooting and cycling)?
+I do not have access to a scooter/bike
+What are the main reasons (barriers) that stop you from travelling actively to school/college (active travel includes walking, running, scooting and cycling)?
+I prefer to travel by car
+What are the main reasons (barriers) that stop you from travelling actively to school/college (active travel includes walking, running, scooting and cycling)?
+I do not like cycling/walking/scooting
+What are the main reasons (barriers) that stop you from travelling actively to school/college (active travel includes walking, running, scooting and cycling)?
+There is nowhere to store/park a bike/scooter at school/college
+What are the main reasons (barriers) that stop you from travelling actively to school/college (active travel includes walking, running, scooting and cycling)?
+I am unable to travel actively (fitness/disability)
+What are the main reasons (barriers) that stop you from travelling actively to school/college (active travel includes walking, running, scooting and cycling)?
+The route to school/college is not (or does not feel) safe
+What are the main reasons (barriers) that stop you from travelling actively to school/college (active travel includes walking, running, scooting and cycling)?
+On a normal day, how many hours a day, do you usually spend sitting down watching TV/playing computer games/using the internet/using a mobile phone?
+What are the main reasons (barriers) that stop you from travelling actively to school/college (active travel includes walking, running, scooting and cycling)?
+Outside of school/college - organised sports/dance  (e.g. football, rugby, cricket, dance, Zumba, gymnastics, cycling, martial arts)
+How many minutes a week are you physically active for? (REMOVED)
+Outside of school/college - playing out/recreational
+How many minutes a week are you physically active for? (REMOVED)
+At school/college but not in lesson times  (e.g. break/lunch times/after-school)
+How many minutes a week are you physically active for? (REMOVED)
+In school/college lessons  (e.g. PE lessons)
+How many minutes a week are you physically active for? (REMOVED)
+Play actively in breaks (e.g. tig, football, monkey bars)
+In school/college, over the last week did you?
+Take part in physically active lessons outdoors (e.g. forest school or something like a number treasure hunt)
+In school/college, over the last week did you?
+Get to school/college by walking, scooting or cycling
+In school/college, over the last week did you?
+Take part in physically active lessons indoors (e.g. where you moved around to learn something such as times tables, throw and catch)
+In school/college, over the last week did you?
+Been to the gym
+In the last four weeks, not through school/college, which of the following activities have you done?
+Played out (with an adult)
+In the last four weeks, not through school/college, which of the following activities have you done?
+Played out (without an adult)
+In the last four weeks, not through school/college, which of the following activities have you done?
+Used a bike or scooter to get around
+In the last four weeks, not through school/college, which of the following activities have you done?
+Been on a walk
+In the last four weeks, not through school/college, which of the following activities have you done?
+Visited a park or play area
+In the last four weeks, not through school/college, which of the following activities have you done?
+Taken part in organised sports/dance (e.g. football, rugby, cricket, dance, Zumba, gymnastics, cycling, martial arts)
+In the last four weeks, not through school/college, which of the following activities have you done?
+Been swimming
+In the last four weeks, not through school/college, which of the following activities have you done?
+In a normal week how many times are you physically active for 30 minutes or more? (REMOVED)
+In the last four weeks, not through school/college, which of the following activities have you done?
+Saturday
+In a normal week, how much physical activity do you do each day? 
+Tuesday
+In a normal week, how much physical activity do you do each day? 
+Wednesday
+In a normal week, how much physical activity do you do each day? 
+Thursday
+In a normal week, how much physical activity do you do each day? 
+Friday
+In a normal week, how much physical activity do you do each day? 
+Sunday
+In a normal week, how much physical activity do you do each day? 
+Monday
+In a normal week, how much physical activity do you do each day? 
+In a normal week, are you usually physically active for at least 60 minutes (1 hour) on most days?
+In a normal week, how much physical activity do you do each day? 
+Other
+Does anything stop you from taking part in physical activities?
+Activities don't cater for my disability
+Does anything stop you from taking part in physical activities?
+I can't get there
+Does anything stop you from taking part in physical activities?
+I don't know how to find out what's on offer
+Does anything stop you from taking part in physical activities?
+My parent(s)/carer(s) worry about me
+Does anything stop you from taking part in physical activities?
+I don't have the time
+Does anything stop you from taking part in physical activities?
+I don't have the confidence
+Does anything stop you from taking part in physical activities?
+Nothing available when I want to do it
+Does anything stop you from taking part in physical activities?
+Nothing stops me, I do take part in physical activity
+Does anything stop you from taking part in physical activities?
+I choose not to
+Does anything stop you from taking part in physical activities?
+I have no one to go with
+Does anything stop you from taking part in physical activities?
+Costs too much
+Does anything stop you from taking part in physical activities?
+The pandemic (REMOVED SUMMER 23)
+Does anything stop you from taking part in physical activities?
+Having COVID-19 myself (REMOVED SUMMER 23)
+Does anything stop you from taking part in physical activities?
+Nothing appeals to me
+Does anything stop you from taking part in physical activities?
+I have a job (REMOVED SUMMER 23)
+Does anything stop you from taking part in physical activities?
+Nothing available in my area
+Does anything stop you from taking part in physical activities?
+Too much school/college work
+Does anything stop you from taking part in physical activities?
+Outside of school do you visit a park or play area?
+Does anything stop you from taking part in physical activities?
+Outside of school do you go swimming?
+Does anything stop you from taking part in physical activities?
+Outside of school do you take part in organised sports/dance (e.g. football, rugby, cricket, Zumba, gymnastics, cycling, martial arts)
+Does anything stop you from taking part in physical activities?
+Outside of school do you go to the gym?
+Does anything stop you from taking part in physical activities?
+How often do you go out to play or hang out with friends?
+Does anything stop you from taking part in physical activities?
+Do you think there are safe spaces to play, hang out and have fun in your local area?
+Does anything stop you from taking part in physical activities?
+Why don’t you think there are safe spaces to play, hang out and have fun in your local area?
+Does anything stop you from taking part in physical activities?
+At school
+How happy are you with your opportunities to play…?
+At home
+How happy are you with your opportunities to play…?
+In your local area
+How happy are you with your opportunities to play…?
+In a normal week, how much time do you spend in Physical Education (PE) lessons? (This includes swimming lessons with school)
+How happy are you with your opportunities to play…?
+Cycling
+In the last 12 months, what sports/activities have you done in PE lessons?
+I have not taken part in PE this year due to personal reasons
+In the last 12 months, what sports/activities have you done in PE lessons?
+Yoga
+In the last 12 months, what sports/activities have you done in PE lessons?
+Dodgeball
+In the last 12 months, what sports/activities have you done in PE lessons?
+Dance
+In the last 12 months, what sports/activities have you done in PE lessons?
+Karate
+In the last 12 months, what sports/activities have you done in PE lessons?
+Volleyball
+In the last 12 months, what sports/activities have you done in PE lessons?
+Skipping
+In the last 12 months, what sports/activities have you done in PE lessons?
+Basketball
+In the last 12 months, what sports/activities have you done in PE lessons?
+Running
+In the last 12 months, what sports/activities have you done in PE lessons?
+Tennis
+In the last 12 months, what sports/activities have you done in PE lessons?
+Gymnastics
+In the last 12 months, what sports/activities have you done in PE lessons?
+Tag Rugby
+In the last 12 months, what sports/activities have you done in PE lessons?
+Swimming
+In the last 12 months, what sports/activities have you done in PE lessons?
+Hockey
+In the last 12 months, what sports/activities have you done in PE lessons?
+Rounders
+In the last 12 months, what sports/activities have you done in PE lessons?
+Cricket
+In the last 12 months, what sports/activities have you done in PE lessons?
+Athletics
+In the last 12 months, what sports/activities have you done in PE lessons?
+I have not taken part in PE due to having COVID-19 myself
+In the last 12 months, what sports/activities have you done in PE lessons?
+Rugby
+In the last 12 months, what sports/activities have you done in PE lessons?
+I have not taken part in PE this year as it has not been timetabled for my year group
+In the last 12 months, what sports/activities have you done in PE lessons?
+Other
+In the last 12 months, what sports/activities have you done in PE lessons?
+Martial Arts
+In the last 12 months, what sports/activities have you done in PE lessons?
+Football
+In the last 12 months, what sports/activities have you done in PE lessons?
+Netball
+In the last 12 months, what sports/activities have you done in PE lessons?
+Multi-skills
+In the last 12 months, what sports/activities have you done in PE lessons?
+Have you enjoyed PE this year?
+In the last 12 months, what sports/activities have you done in PE lessons?
+In the last 12 months, have you represented school in a sports event? (e.g. Football, Multi-skills, Netball, Dance competition)
+In the last 12 months, what sports/activities have you done in PE lessons?
+Attend an after-school club
+Has PE encouraged you to do any of the following '.?
+Join a sports club outside of school
+Has PE encouraged you to do any of the following '.?
+In the last 12 months, have you attended an active after-school club?
+Has PE encouraged you to do any of the following '.?
+Skipping
+What after school club(s) would you like school to offer and which sports clubs have you attended outside of school?
+Tag Rugby
+What after school club(s) would you like school to offer and which sports clubs have you attended outside of school?
+Gymnastics
+What after school club(s) would you like school to offer and which sports clubs have you attended outside of school?
+Football
+What after school club(s) would you like school to offer and which sports clubs have you attended outside of school?
+Dodgeball
+What after school club(s) would you like school to offer and which sports clubs have you attended outside of school?
+Cricket
+What after school club(s) would you like school to offer and which sports clubs have you attended outside of school?
+Dance
+What after school club(s) would you like school to offer and which sports clubs have you attended outside of school?
+Cycling
+What after school club(s) would you like school to offer and which sports clubs have you attended outside of school?
+Basketball
+What after school club(s) would you like school to offer and which sports clubs have you attended outside of school?
+Athletics
+What after school club(s) would you like school to offer and which sports clubs have you attended outside of school?
+Rugby
+What after school club(s) would you like school to offer and which sports clubs have you attended outside of school?
+Rounders
+What after school club(s) would you like school to offer and which sports clubs have you attended outside of school?
+Netball
+What after school club(s) would you like school to offer and which sports clubs have you attended outside of school?
+I haven't attended any sports club(s) outside of school
+What after school club(s) would you like school to offer and which sports clubs have you attended outside of school?
+Multi-skills
+What after school club(s) would you like school to offer and which sports clubs have you attended outside of school?
+I am happy with the sports club(s) my school offers
+What after school club(s) would you like school to offer and which sports clubs have you attended outside of school?
+Swimming
+What after school club(s) would you like school to offer and which sports clubs have you attended outside of school?
+Martial Arts
+What after school club(s) would you like school to offer and which sports clubs have you attended outside of school?
+Tennis
+What after school club(s) would you like school to offer and which sports clubs have you attended outside of school?
+Volleyball
+What after school club(s) would you like school to offer and which sports clubs have you attended outside of school?
+Yoga
+What after school club(s) would you like school to offer and which sports clubs have you attended outside of school?
+Other
+What after school club(s) would you like school to offer and which sports clubs have you attended outside of school?
+I am not interested in any club(s)
+What after school club(s) would you like school to offer and which sports clubs have you attended outside of school?
+Hockey
+What after school club(s) would you like school to offer and which sports clubs have you attended outside of school?
+Running
+What after school club(s) would you like school to offer and which sports clubs have you attended outside of school?
+Football
+In the last 12 months, what sports club(s) have you attended outside of school?
+Dodgeball
+In the last 12 months, what sports club(s) have you attended outside of school?
+I haven't attended any sports club(s) outside of school due to the pandemic
+In the last 12 months, what sports club(s) have you attended outside of school?
+Other
+In the last 12 months, what sports club(s) have you attended outside of school?
+I haven't attended any sports club(s) outside of school
+In the last 12 months, what sports club(s) have you attended outside of school?
+Skipping
+In the last 12 months, what sports club(s) have you attended outside of school?
+Running
+In the last 12 months, what sports club(s) have you attended outside of school?
+Athletics
+In the last 12 months, what sports club(s) have you attended outside of school?
+Volleyball
+In the last 12 months, what sports club(s) have you attended outside of school?
+Martial Arts
+In the last 12 months, what sports club(s) have you attended outside of school?
+Rugby
+In the last 12 months, what sports club(s) have you attended outside of school?
+Gymnastics
+In the last 12 months, what sports club(s) have you attended outside of school?
+Cricket
+In the last 12 months, what sports club(s) have you attended outside of school?
+Tag Rugby
+In the last 12 months, what sports club(s) have you attended outside of school?
+Rounders
+In the last 12 months, what sports club(s) have you attended outside of school?
+I haven't attended any sports club(s) outside of school due to having COVID-19 myself
+In the last 12 months, what sports club(s) have you attended outside of school?
+Swimming
+In the last 12 months, what sports club(s) have you attended outside of school?
+Basketball
+In the last 12 months, what sports club(s) have you attended outside of school?
+Hockey
+In the last 12 months, what sports club(s) have you attended outside of school?
+Tennis
+In the last 12 months, what sports club(s) have you attended outside of school?
+Netball
+In the last 12 months, what sports club(s) have you attended outside of school?
+Dance
+In the last 12 months, what sports club(s) have you attended outside of school?
+Cycling
+In the last 12 months, what sports club(s) have you attended outside of school?
+Volleyball
+What sports/activities have you done in PE lessons?
+I have not taken part in PE this year as it has not been timetabled for my year group
+What sports/activities have you done in PE lessons?
+Other
+What sports/activities have you done in PE lessons?
+Yoga
+What sports/activities have you done in PE lessons?
+Tennis
+What sports/activities have you done in PE lessons?
+Swimming
+What sports/activities have you done in PE lessons?
+Skipping
+What sports/activities have you done in PE lessons?
+Running
+What sports/activities have you done in PE lessons?
+Rugby
+What sports/activities have you done in PE lessons?
+Rounders
+What sports/activities have you done in PE lessons?
+Netball
+What sports/activities have you done in PE lessons?
+Multi-skills
+What sports/activities have you done in PE lessons?
+Karate
+What sports/activities have you done in PE lessons?
+Judo
+What sports/activities have you done in PE lessons?
+Hockey
+What sports/activities have you done in PE lessons?
+Gymnastics
+What sports/activities have you done in PE lessons?
+Football
+What sports/activities have you done in PE lessons?
+Dodgeball
+What sports/activities have you done in PE lessons?
+Dance
+What sports/activities have you done in PE lessons?
+Cycling
+What sports/activities have you done in PE lessons?
+Cricket
+What sports/activities have you done in PE lessons?
+Basketball
+What sports/activities have you done in PE lessons?
+Athletics
+What sports/activities have you done in PE lessons?
+I have not taken part in PE due to having long Covid
+What sports/activities have you done in PE lessons?
+Sitting Volleyball
+What sports/activities have you done in PE lessons?
+Boccia
+What sports/activities have you done in PE lessons?
+Tag Rugby
+What sports/activities have you done in PE lessons?
+I have not taken part in PE this year due to personal reasons
+What sports/activities have you done in PE lessons?
+Do you enjoy PE lessons?
+What sports/activities have you done in PE lessons?
+Have you represented school in a sports event? (e.g. Football, Multi skills, Netball, Dance competition)
+What sports/activities have you done in PE lessons?
+Has PE encouraged you to attend an active/sports club at break/lunch time? -REMOVED JULY 2022
+What sports/activities have you done in PE lessons?
+Have you attended an active/sports club at break/lunch time?
+What sports/activities have you done in PE lessons?
+Nothing stops me from taking part in physical activity at school
+Does anything stop you taking part in physical activity at school/college? (tick all that apply)
+The fear of judgement
+Does anything stop you taking part in physical activity at school/college? (tick all that apply)
+Lack of adapted/specialist equipment
+Does anything stop you taking part in physical activity at school/college? (tick all that apply)
+No after school activities offered due to transport timings
+Does anything stop you taking part in physical activity at school/college? (tick all that apply)
+Long Covid
+Does anything stop you taking part in physical activity at school/college? (tick all that apply)
+Activities don't cater for my disability
+Does anything stop you taking part in physical activity at school/college? (tick all that apply)
+Too hard to join in
+Does anything stop you taking part in physical activity at school/college? (tick all that apply)
+Running
+What active/sports club(s) at break/lunch time would you like school/college to offer?
+Sitting Volleyball
+What active/sports club(s) at break/lunch time would you like school/college to offer?
+Boccia
+What active/sports club(s) at break/lunch time would you like school/college to offer?
+Athletics
+What active/sports club(s) at break/lunch time would you like school/college to offer?
+Basketball
+What active/sports club(s) at break/lunch time would you like school/college to offer?
+Cricket
+What active/sports club(s) at break/lunch time would you like school/college to offer?
+Cycling
+What active/sports club(s) at break/lunch time would you like school/college to offer?
+Dance
+What active/sports club(s) at break/lunch time would you like school/college to offer?
+Football
+What active/sports club(s) at break/lunch time would you like school/college to offer?
+Gymnastics
+What active/sports club(s) at break/lunch time would you like school/college to offer?
+Hockey
+What active/sports club(s) at break/lunch time would you like school/college to offer?
+Judo
+What active/sports club(s) at break/lunch time would you like school/college to offer?
+Karate
+What active/sports club(s) at break/lunch time would you like school/college to offer?
+Multi-skills
+What active/sports club(s) at break/lunch time would you like school/college to offer?
+Netball
+What active/sports club(s) at break/lunch time would you like school/college to offer?
+Rounders
+What active/sports club(s) at break/lunch time would you like school/college to offer?
+Rugby
+What active/sports club(s) at break/lunch time would you like school/college to offer?
+Skipping
+What active/sports club(s) at break/lunch time would you like school/college to offer?
+Tag Rugby
+What active/sports club(s) at break/lunch time would you like school/college to offer?
+Tennis
+What active/sports club(s) at break/lunch time would you like school/college to offer?
+Volleyball
+What active/sports club(s) at break/lunch time would you like school/college to offer?
+Yoga
+What active/sports club(s) at break/lunch time would you like school/college to offer?
+Other
+What active/sports club(s) at break/lunch time would you like school/college to offer?
+I am happy with the active/sports club(s) my school/college offers
+What active/sports club(s) at break/lunch time would you like school/college to offer?
+I am not interested in any active/sports club that school might offer
+What active/sports club(s) at break/lunch time would you like school/college to offer?
+Dodgeball
+What active/sports club(s) at break/lunch time would you like school/college to offer?
+Has PE encouraged you to join a sports club(s) outside of school/college?
+What active/sports club(s) at break/lunch time would you like school/college to offer?
+Boccia
+What sports club(s) have you attended outside of school/college?
+Other
+What sports club(s) have you attended outside of school/college?
+Sitting Volleyball
+What sports club(s) have you attended outside of school/college?
+Dance
+What sports club(s) have you attended outside of school/college?
+Dodgeball
+What sports club(s) have you attended outside of school/college?
+Football
+What sports club(s) have you attended outside of school/college?
+Gymnastics
+What sports club(s) have you attended outside of school/college?
+Hockey
+What sports club(s) have you attended outside of school/college?
+Judo
+What sports club(s) have you attended outside of school/college?
+Karate
+What sports club(s) have you attended outside of school/college?
+Netball
+What sports club(s) have you attended outside of school/college?
+Rounders
+What sports club(s) have you attended outside of school/college?
+Rugby
+What sports club(s) have you attended outside of school/college?
+Running
+What sports club(s) have you attended outside of school/college?
+Skipping
+What sports club(s) have you attended outside of school/college?
+Swimming
+What sports club(s) have you attended outside of school/college?
+Tag Rugby
+What sports club(s) have you attended outside of school/college?
+Tennis
+What sports club(s) have you attended outside of school/college?
+Volleyball
+What sports club(s) have you attended outside of school/college?
+I haven't attended any sports club(s) outside of school
+What sports club(s) have you attended outside of school/college?
+Athletics
+What sports club(s) have you attended outside of school/college?
+Multi-skills
+What sports club(s) have you attended outside of school/college?
+Basketball
+What sports club(s) have you attended outside of school/college?
+Cricket
+What sports club(s) have you attended outside of school/college?
+Cycling
+What sports club(s) have you attended outside of school/college?
+Do you do 20 mins or more, of physical activity per day?
+What sports club(s) have you attended outside of school/college?
+I live with someone that smokes outside the house
+Which of these describes you?
+I live with someone that smokes inside the house
+Which of these describes you?
+I do not live with anyone who smokes
+Which of these describes you?
+How often, if at all, do you travel in a car in which someone is smoking?
+Which of these describes you?
+Have you ever smoked a cigarette?
+Which of these describes you?
+Have you ever smoked a cigarette?
+Which of these describes you?
+Do you still smoke cigarettes?
+Which of these describes you?
+How many cigarettes do you smoke on your own or share?
+Which of these describes you?
+Where do you usually get your cigarettes from?
+Which of these describes you?
+Have you ever heard of vaping (electronic cigarettes)?
+Which of these describes you?
+Have you ever vaped (used an electronic cigarette)?
+Which of these describes you?
+Where do you usually get your vapes/vape liquid (electronic cigarettes) from?
+Which of these describes you?
+Did you start regularly smoking tobacco cigarettes before or after first trying electronic cigarettes/vaping devices?
+Which of these describes you?
+Have you ever had an alcoholic drink – a whole drink, not just a sip? 
+Which of these describes you?
+Which of these describes you?
+Which of these describes you?
+Which of these describes you?
+Which of these describes you?
+Where do/did you usually get your alcohol from?
+Which of these describes you?
+Have you ever been OFFERED illegal drugs or glues, gases and solvents as drugs?
+Which of these describes you?
+Have you ever used or taken any drugs, including sniffing glue or solvents (even if only once)?
+Which of these describes you?
+Stimulants  - speed/M CAT
+How often do you usually take each of the following drugs?
+Tranquillisers e.g. Alprazolam (Xanax)
+How often do you usually take each of the following drugs?
+Glues, gases or solvents as drugs
+How often do you usually take each of the following drugs?
+Cannabis - all other forms
+How often do you usually take each of the following drugs?
+Cannabis - edible forms e.g. Brownies, Gummie sweets
+How often do you usually take each of the following drugs?
+A mix of drugs at the same time
+How often do you usually take each of the following drugs?
+Nitrous Oxide/NOS/Laughing Gas
+How often do you usually take each of the following drugs?
+Stimulants - ecstasy/MDMA
+How often do you usually take each of the following drugs?
+Steroids - not prescribed by a doctor
+How often do you usually take each of the following drugs?
+Opiate drugs e.g. Heroin
+How often do you usually take each of the following drugs?
+Other drug(s)
+How often do you usually take each of the following drugs?
+Stimulants - cocaine or crack
+How often do you usually take each of the following drugs?
+Hallucinogens e.g. LSD, magic mushrooms or ketamine
+How often do you usually take each of the following drugs?
+Drugs prescribed to someone else e.g. methadone
+How often do you usually take each of the following drugs?
+Where do you usually get your drugs from?
+How often do you usually take each of the following drugs?
+Have you ever used substances known as Novel Psychoactive Substances? (These used to be known as legal highs, but are now illegal)
+How often do you usually take each of the following drugs?
+Cannabis like (spice)
+How often have you used each of the following Novel Psychoactive Substances?  (These used to be known as legal highs, but are now illegal)
+Other Novel Psychoactive Substances
+How often have you used each of the following Novel Psychoactive Substances?  (These used to be known as legal highs, but are now illegal)
+A mix of 'Novel Psychoactive Substances' at the same time
+How often have you used each of the following Novel Psychoactive Substances?  (These used to be known as legal highs, but are now illegal)
+Depressant (slows down your body and can make you drowsy)
+How often have you used each of the following Novel Psychoactive Substances?  (These used to be known as legal highs, but are now illegal)
+Hallucinogen (can make you see and hear things differently)
+How often have you used each of the following Novel Psychoactive Substances?  (These used to be known as legal highs, but are now illegal)
+Stimulant (speeds up your heart rate and can give you energy)
+How often have you used each of the following Novel Psychoactive Substances?  (These used to be known as legal highs, but are now illegal)
+Where do you usually get your Novel Psychoactive Substances from?
+How often have you used each of the following Novel Psychoactive Substances?  (These used to be known as legal highs, but are now illegal)
+Have you ever vaped (used an electronic cigarette)?
+How often have you used each of the following Novel Psychoactive Substances?  (These used to be known as legal highs, but are now illegal)
+Have you ever had a drink of alcohol?
+How often have you used each of the following Novel Psychoactive Substances?  (These used to be known as legal highs, but are now illegal)
+Do you still drink alcohol?
+How often have you used each of the following Novel Psychoactive Substances?  (These used to be known as legal highs, but are now illegal)
+Have you ever been offered illegal drugs, glues, gases or solvents?
+How often have you used each of the following Novel Psychoactive Substances?  (These used to be known as legal highs, but are now illegal)
+Do you understand what is meant by consent in relation to sexual activity?
+How often have you used each of the following Novel Psychoactive Substances?  (These used to be known as legal highs, but are now illegal)
+Have you ever sent any nude pictures or videos?
+How often have you used each of the following Novel Psychoactive Substances?  (These used to be known as legal highs, but are now illegal)
+Have you ever sent any nude pictures or videos?
+How often have you used each of the following Novel Psychoactive Substances?  (These used to be known as legal highs, but are now illegal)
+Have you ever felt pressured into having sex (sexual contact between individuals involving penetration)? OLD VERSION OF QUESTION PRE 21/22
+How often have you used each of the following Novel Psychoactive Substances?  (These used to be known as legal highs, but are now illegal)
+Sexual activity
+Have you ever felt pressured into having either of the following?
+Sex
+Have you ever felt pressured into having either of the following?
+Other
+If you have felt pressured into having either sex or sexual activity, who or what pressured you?
+Pornography
+If you have felt pressured into having either sex or sexual activity, who or what pressured you?
+Online pressure
+If you have felt pressured into having either sex or sexual activity, who or what pressured you?
+TV/Films
+If you have felt pressured into having either sex or sexual activity, who or what pressured you?
+Other young people
+If you have felt pressured into having either sex or sexual activity, who or what pressured you?
+I have never felt pressured
+If you have felt pressured into having either sex or sexual activity, who or what pressured you?
+Friend(s)
+If you have felt pressured into having either sex or sexual activity, who or what pressured you?
+Other adult(s)
+If you have felt pressured into having either sex or sexual activity, who or what pressured you?
+Family member(s)
+If you have felt pressured into having either sex or sexual activity, who or what pressured you?
+Student(s) at school
+If you have felt pressured into having either sex or sexual activity, who or what pressured you?
+Stranger(s)
+If you have felt pressured into having either sex or sexual activity, who or what pressured you?
+Romantic partner(s)
+If you have felt pressured into having either sex or sexual activity, who or what pressured you?
+Have you ever had sexual contact with another person involving penetration?
+If you have felt pressured into having either sex or sexual activity, who or what pressured you?
+Who have you had sex (sexual contact between individuals involving penetration) with?
+If you have felt pressured into having either sex or sexual activity, who or what pressured you?
+Which year group were you in when you first had sexual contact with someone involving penetration?
+If you have felt pressured into having either sex or sexual activity, who or what pressured you?
+The last time you had sexual contact with someone involving penetration did you or your partner…? 
+If you have felt pressured into having either sex or sexual activity, who or what pressured you?
+Where did you or your partner get the condom(s) or contraception from?
+If you have felt pressured into having either sex or sexual activity, who or what pressured you?
+I didn’t want to use contraception
+Why did you or your partner NOT use a condom or any other form of contraception/protection?
+Didn't know where to get it from
+Why did you or your partner NOT use a condom or any other form of contraception/protection?
+My partner didn't want to use anything
+Why did you or your partner NOT use a condom or any other form of contraception/protection?
+We didn't plan to have sex
+Why did you or your partner NOT use a condom or any other form of contraception/protection?
+I was scared/embarrassed /lacked confidence to get an appointment at the doctors or sexual health clinic
+Why did you or your partner NOT use a condom or any other form of contraception/protection?
+I'm allergic to latex condoms
+Why did you or your partner NOT use a condom or any other form of contraception/protection?
+I didn’t want to use condoms
+Why did you or your partner NOT use a condom or any other form of contraception/protection?
+I believe it is against my religion to use condoms or contraception/protection
+Why did you or your partner NOT use a condom or any other form of contraception/protection?
+Other
+Why did you or your partner NOT use a condom or any other form of contraception/protection?
+I don't like using condoms
+Why did you or your partner NOT use a condom or any other form of contraception/protection?
+I didn't have any money to buy condoms
+Why did you or your partner NOT use a condom or any other form of contraception/protection?
+I didn’t think I needed condoms for the type of sexual activity I have been doing
+Why did you or your partner NOT use a condom or any other form of contraception/protection?
+I was scared/embarrassed/ lacked confidence to suggest using a condom
+Why did you or your partner NOT use a condom or any other form of contraception/protection?
+My school/college helps me if I am worried or have a problem
+How much do you agree or disagree with the following statements?
+There are good things to do before and after school/college
+How much do you agree or disagree with the following statements?
+There are good things to do at break times/lunch times
+How much do you agree or disagree with the following statements?
+I enjoy going to school/college
+How much do you agree or disagree with the following statements?
+My school/college is a caring place
+How much do you agree or disagree with the following statements?
+There are staff in my school/college that I trust
+How much do you agree or disagree with the following statements?
+I feel like I belong to my school/college community
+How much do you agree or disagree with the following statements?
+At school/college, not in lessons
+In the last 12 months how safe have you felt in the following places?
+During lessons at school/college
+In the last 12 months how safe have you felt in the following places?
+Travelling to and from school/college
+In the last 12 months how safe have you felt in the following places?
+School/college toilets
+In the last 12 months how safe have you felt in the following places?
+Yes, due to not feeling safe
+Have you ever been away from school without telling anyone?
+No
+Have you ever been away from school without telling anyone?
+Yes, due to lessons I do not like
+Have you ever been away from school without telling anyone?
+Yes, due to feeling anxious
+Have you ever been away from school without telling anyone?
+Yes, due to low mood
+Have you ever been away from school without telling anyone?
+Yes, due to bullying (including online)
+Have you ever been away from school without telling anyone?
+Yes, if I can't be bothered
+Have you ever been away from school without telling anyone?
+Yes, due to being with friends
+Have you ever been away from school without telling anyone?
+Yes, due to teachers
+Have you ever been away from school without telling anyone?
+Yes, for another reason
+Have you ever been away from school without telling anyone?
+Yes, due to being with family
+Have you ever been away from school without telling anyone?
+Yes, due to feeling anxious
+Do you ever miss lessons at college if you are not ill?
+Yes, due to bullying (including online)
+Do you ever miss lessons at college if you are not ill?
+Yes, if I can't be bothered
+Do you ever miss lessons at college if you are not ill?
+Yes, due to teachers
+Do you ever miss lessons at college if you are not ill?
+No
+Do you ever miss lessons at college if you are not ill?
+Yes, for another reason
+Do you ever miss lessons at college if you are not ill?
+Yes, due to being with friends
+Do you ever miss lessons at college if you are not ill?
+Yes, due to being with family
+Do you ever miss lessons at college if you are not ill?
+Yes, due to low mood
+Do you ever miss lessons at college if you are not ill?
+Yes, due to lessons I do not like
+Do you ever miss lessons at college if you are not ill?
+Do your parent(s)/carer(s) know you miss lessons?
+Do you ever miss lessons at college if you are not ill?
+Is your school/college a welcoming and caring place?
+Do you ever miss lessons at college if you are not ill?
+Does your school/college help you if you are worried or have a problem?
+Do you ever miss lessons at college if you are not ill?
+Do you get on well with staff in your school/college?
+Do you ever miss lessons at college if you are not ill?
+Are there good things to do at break times/lunchtimes?
+Do you ever miss lessons at college if you are not ill?
+Do you enjoy going to school/college?
+Do you ever miss lessons at college if you are not ill?
+Do you enjoy your life at school/college?
+Do you ever miss lessons at college if you are not ill?
+Do you enjoy school/college holidays?
+Do you ever miss lessons at college if you are not ill?
+Do you feel safe at school/college during lessons
+Do you ever miss lessons at college if you are not ill?
+Do you feel safe at school/college at break and lunchtimes?
+Do you ever miss lessons at college if you are not ill?
+Do you feel safe at school/college in the toilets?
+Do you ever miss lessons at college if you are not ill?
+Do you feel safe travelling to and from school/college?
+Do you ever miss lessons at college if you are not ill?
+Do you know how to share ideas about improving your school/college?
+Do you ever miss lessons at college if you are not ill?
+Have you ever voted in a class/school/college council?
+Do you ever miss lessons at college if you are not ill?
+I haven't shared any ideas about improving my school
+In the last 12 months, at your school/college?
+I have interviewed staff for jobs at my school/college
+In the last 12 months, at your school/college?
+I have voted in the school/student council elections
+In the last 12 months, at your school/college?
+I have given ideas to a member of staff
+In the last 12 months, at your school/college?
+I have given ideas to a school/student councillor
+In the last 12 months, at your school/college?
+I am on my school/student council
+In the last 12 months, at your school/college?
+I have done campaigns and projects e.g. anti-bullying, recycling
+In the last 12 months, at your school/college?
+Do you know how to share ideas about improving your local area or city?
+In the last 12 months, at your school/college?
+In the last 12 months, have you shared ideas about improving your local area or city?
+In the last 12 months, at your school/college?
+Felt that any suggestions/ideas you have shared have been heard by adults and have influenced change in your school/college, local area/community
+In the last 12 months at your school/college, have you '?
+Made decisions (or voted) in a class, school, college council/student election
+In the last 12 months at your school/college, have you '?
+Shared your views on how to make your local area/community better for children and young people (e.g. through surveys, Youth Parliament, referendums, youth summits, Children's Mayor, Youth Council, youth groups)
+In the last 12 months at your school/college, have you '?
+Had your say about how your school/college is run (e.g. shared ideas through your school council, giving feedback to staff, running your own events etc.)
+In the last 12 months at your school/college, have you '?
+Understand that other people have different faiths and beliefs.
+How much useful information and learning have you had to help you understand the following aspects of British values? (e.g. through lessons at school/college)
+Respect for others
+How much useful information and learning have you had to help you understand the following aspects of British values? (e.g. through lessons at school/college)
+That we all have rights
+How much useful information and learning have you had to help you understand the following aspects of British values? (e.g. through lessons at school/college)
+Why we have rules and laws
+How much useful information and learning have you had to help you understand the following aspects of British values? (e.g. through lessons at school/college)
+Democracy and how it works
+How much useful information and learning have you had to help you understand the following aspects of British values? (e.g. through lessons at school/college)
+Risks of alcohol
+How much useful information and learning have you had to help you understand the following things? (e.g. through lessons at school/college)
+Experiences of the world of work
+How much useful information and learning have you had to help you understand the following things? (e.g. through lessons at school/college)
+Risks of air pollution on health
+How much useful information and learning have you had to help you understand the following things? (e.g. through lessons at school/college)
+Climate change
+How much useful information and learning have you had to help you understand the following things? (e.g. through lessons at school/college)
+Financial Security
+How much useful information and learning have you had to help you understand the following things? (e.g. through lessons at school/college)
+First Aid
+How much useful information and learning have you had to help you understand the following things? (e.g. through lessons at school/college)
+Healthy weight
+How much useful information and learning have you had to help you understand the following things? (e.g. through lessons at school/college)
+Cooking and preparing healthy food
+How much useful information and learning have you had to help you understand the following things? (e.g. through lessons at school/college)
+Leaving home/Living independently
+How much useful information and learning have you had to help you understand the following things? (e.g. through lessons at school/college)
+Volunteering opportunities
+How much useful information and learning have you had to help you understand the following things? (e.g. through lessons at school/college)
+Careers Advice
+How much useful information and learning have you had to help you understand the following things? (e.g. through lessons at school/college)
+Eating healthily
+How much useful information and learning have you had to help you understand the following things? (e.g. through lessons at school/college)
+Pressure/encouragement to commit a crime
+How much useful information and learning have you had to help you understand the following things? (e.g. through lessons at school/college)
+Knife/weapon awareness
+How much useful information and learning have you had to help you understand the following things? (e.g. through lessons at school/college)
+How to manage money
+How much useful information and learning have you had to help you understand the following things? (e.g. through lessons at school/college)
+Risks of smoking
+How much useful information and learning have you had to help you understand the following things? (e.g. through lessons at school/college)
+Gangs
+How much useful information and learning have you had to help you understand the following things? (e.g. through lessons at school/college)
+Honour based violence
+How much useful information and learning have you had to help you understand the following things? (e.g. through lessons at school/college)
+Risk of giving /accepting a lift in a car
+How much useful information and learning have you had to help you understand the following things? (e.g. through lessons at school/college)
+Gambling
+How much useful information and learning have you had to help you understand the following things? (e.g. through lessons at school/college)
+Road safety
+How much useful information and learning have you had to help you understand the following things? (e.g. through lessons at school/college)
+Radicalisation/Extremism 
+How much useful information and learning have you had to help you understand the following things? (e.g. through lessons at school/college)
+Risks of drugs
+How much useful information and learning have you had to help you understand the following things? (e.g. through lessons at school/college)
+Being physically active
+How much useful information and learning have you had to help you understand the following things? (e.g. through lessons at school/college)
+Litter and recycling
+How much useful information and learning have you had to help you understand the following things? (e.g. through lessons at school/college)
+Staying safe on the internet
+How much useful information and learning have you had to help you understand the following things e.g. through lessons at school/college)? 
+Transphobic bullying and ways to stop it
+How much useful information and learning have you had to help you understand the following things e.g. through lessons at school/college)? 
+Social, Emotional & Mental Health
+How much useful information and learning have you had to help you understand the following things e.g. through lessons at school/college)? 
+Homophobic bullying and ways to stop it
+How much useful information and learning have you had to help you understand the following things e.g. through lessons at school/college)? 
+Gender identity
+How much useful information and learning have you had to help you understand the following things e.g. through lessons at school/college)? 
+Biphobic bullying and ways to stop it
+How much useful information and learning have you had to help you understand the following things e.g. through lessons at school/college)? 
+Sexual identity
+How much useful information and learning have you had to help you understand the following things e.g. through lessons at school/college)? 
+Bullying (including online) and what to do about it
+How much useful information and learning have you had to help you understand the following things e.g. through lessons at school/college)? 
+How to cope with a death
+How much useful information and learning have you had to help you understand the following things e.g. through lessons at school/college)? 
+How to cope with feeling lonely
+How much useful information and learning have you had to help you understand the following things e.g. through lessons at school/college)? 
+How to cope with a separation
+How much useful information and learning have you had to help you understand the following things e.g. through lessons at school/college)? 
+Racism and what to do about it
+How much useful information and learning have you had to help you understand the following things e.g. through lessons at school/college)? 
+Self-harm
+How much useful information and learning have you had to help you understand the following things e.g. through lessons at school/college)? 
+When you are ready to have sex
+How much useful information and learning have you had to help you understand the following things? (e.g. through lessons at school/college)
+How your feelings will change as you grow up
+How much useful information and learning have you had to help you understand the following things? (e.g. through lessons at school/college)
+Pregnancy choices
+How much useful information and learning have you had to help you understand the following things? (e.g. through lessons at school/college)
+How babies are made (conception)
+How much useful information and learning have you had to help you understand the following things? (e.g. through lessons at school/college)
+How babies are made (conception) and born
+How much useful information and learning have you had to help you understand the following things? (e.g. through lessons at school/college)
+Domestic violence and abusive relationships
+How much useful information and learning have you had to help you understand the following things? (e.g. through lessons at school/college)
+Consent
+How much useful information and learning have you had to help you understand the following things? (e.g. through lessons at school/college)
+Forced marriages
+How much useful information and learning have you had to help you understand the following things? (e.g. through lessons at school/college)
+Making good relationships
+How much useful information and learning have you had to help you understand the following things? (e.g. through lessons at school/college)
+Different types of families (single parents, living with grandparents, having step-parents, having two mums or two dads)
+How much useful information and learning have you had to help you understand the following things? (e.g. through lessons at school/college)
+Using contraception
+How much useful information and learning have you had to help you understand the following things? (e.g. through lessons at school/college)
+Safe and unsafe relationships
+How much useful information and learning have you had to help you understand the following things? (e.g. through lessons at school/college)
+How to be a good parent
+How much useful information and learning have you had to help you understand the following things? (e.g. through lessons at school/college)
+Relationships and sex
+How much useful information and learning have you had to help you understand the following things? (e.g. through lessons at school/college)
+Personal hygiene/ Keeping clean
+How much useful information and learning have you had to help you understand the following things? (e.g. through lessons at school/college)
+How your body will change as you grow up
+How much useful information and learning have you had to help you understand the following things? (e.g. through lessons at school/college)
+Female Genital Mutilation (FGM)
+How much useful information and learning have you had to help you understand the following things? (e.g. through lessons at school/college)
+How alcohol and drugs can influence sexual behaviour
+How much useful information and learning have you had to help you understand the following things? (e.g. through lessons at school/college)
+Avoiding Sexually Transmitted Infections (e.g. Chlamydia, HIV & AIDS)
+How much useful information and learning have you had to help you understand the following things? (e.g. through lessons at school/college)
+Child Sexual Exploitation (also known as grooming)
+How much useful information and learning have you had to help you understand the following things? (e.g. through lessons at school/college)
+Alcohol
+To make sure you are safe and healthy, would you know where to go to get help or advice for each of these things?
+Someone asking you for your personal details (such as your address) on the internet
+To make sure you are safe and healthy, would you know where to go to get help or advice for each of these things?
+Biphobic bullying and ways to stop it
+To make sure you are safe and healthy, would you know where to go to get help or advice for each of these things?
+Someone sending you upsetting messages, pictures or videos on the internet or on your mobile phone
+To make sure you are safe and healthy, would you know where to go to get help or advice for each of these things?
+Homophobic bullying and ways to stop it
+To make sure you are safe and healthy, would you know where to go to get help or advice for each of these things?
+Transphobic bullying and ways to stop it
+To make sure you are safe and healthy, would you know where to go to get help or advice for each of these things?
+Not having enough to eat because my family didn’t have enough money for food
+To make sure you are safe and healthy, would you know where to go to get help or advice for each of these things?
+Self-harm
+To make sure you are safe and healthy, would you know where to go to get help or advice for each of these things?
+How to cope with a separation
+To make sure you are safe and healthy, would you know where to go to get help or advice for each of these things?
+Smoking
+To make sure you are safe and healthy, would you know where to go to get help or advice for each of these things?
+Housing
+To make sure you are safe and healthy, would you know where to go to get help or advice for each of these things?
+Racism and what to do about it
+To make sure you are safe and healthy, would you know where to go to get help or advice for each of these things?
+Drugs
+To make sure you are safe and healthy, would you know where to go to get help or advice for each of these things?
+Forced marriage
+To make sure you are safe and healthy, would you know where to go to get help or advice for each of these things?
+Honour based violence
+To make sure you are safe and healthy, would you know where to go to get help or advice for each of these things?
+Bullying (including online) and what to do about it
+To make sure you are safe and healthy, would you know where to go to get help or advice for each of these things?
+How to use a condom
+To make sure you are safe and healthy, would you know where to go to get help or advice for each of these things?
+How to cope with a death
+To make sure you are safe and healthy, would you know where to go to get help or advice for each of these things?
+Healthy eating
+To make sure you are safe and healthy, would you know where to go to get help or advice for each of these things?
+Staying safe on the internet
+To make sure you are safe and healthy, would you know where to go to get help or advice for each of these things?
+Pupils carrying knives/weapons
+To make sure you are safe and healthy, would you know where to go to get help or advice for each of these things?
+Pressure to be in a gang
+To make sure you are safe and healthy, would you know where to go to get help or advice for each of these things?
+Pressure/encouragement to commit a crime
+To make sure you are safe and healthy, would you know where to go to get help or advice for each of these things?
+Child Sexual Exploitation (also known as grooming)
+To make sure you are safe and healthy, would you know where to go to get help or advice for each of these things?
+Female Genital Mutilation (FGM)
+To make sure you are safe and healthy, would you know where to go to get help or advice for each of these things?
+Radicalisation/Extremism
+To make sure you are safe and healthy, would you know where to go to get help or advice for each of these things?
+Something you saw on the internet, which upsets you
+To make sure you are safe and healthy, would you know where to go to get help or advice for each of these things?
+Social, Emotional and Mental Health
+To make sure you are safe and healthy, would you know where to go to get help or advice for each of these things?
+Growing up ' changes in body and feelings
+To make sure you are safe and healthy, would you know where to go to get help or advice for each of these things?
+Contraception/sexual health advice and treatment
+To make sure you are safe and healthy, would you know where to go to get help or advice for each of these things?
+Relationships
+To make sure you are safe and healthy, would you know where to go to get help or advice for each of these things?
+Domestic violence and abusive relationships
+To make sure you are safe and healthy, would you know where to go to get help or advice for each of these things?
+Money problems
+To make sure you are safe and healthy, would you know where to go to get help or advice for each of these things?
+Managing money/budgeting
+To make sure you are safe and healthy, would you know where to go to get help or advice for each of these things?
+Gambling (mine/family members)
+To make sure you are safe and healthy, would you know where to go to get help or advice for each of these things?
+Problems out of school/college
+To make sure you are safe and healthy, would you know where to go to get help or advice for each of these things?
+Relationships and sex
+To make sure you are safe and healthy, would you know where to go to get help or advice for each of these things?
+Problems in school/college
+To make sure you are safe and healthy, would you know where to go to get help or advice for each of these things?
+Climate change
+To make sure you are safe and healthy, would you know where to go to get help or advice for each of these things?
+Being active
+To make sure you are safe and healthy, would you know where to go to get help or advice for each of these things?
+Sexual identity
+To make sure you are safe and healthy, would you know where to go to get help or advice for each of these things?
+Relationships
+To make sure you are safe and healthy, would you know where to go to get help or advice for each of these things?
+Suicidal thoughts
+To make sure you are safe and healthy, would you know where to go to get help or advice for each of these things?
+Gender identity
+To make sure you are safe and healthy, would you know where to go to get help or advice for each of these things?
+First Aid
+To make sure you are safe and healthy, would you know where to go to get help or advice for each of these things?
+Scams/Identity theft
+To make sure you are safe and healthy, would you know where to go to get help or advice for each of these things?
+Sex
+To make sure you are safe and healthy, would you know where to go to get help or advice for each of these things?
+Gender identity
+To make sure you are safe and healthy, would you know where to go to get help or advice for each of these things?
+Helping me to keep myself safe from the risks of drugs and alcohol
+Do you agree or disagree with the following statement 'My school/college has been good at'.'
+Helping me to keep myself safe from the risks of having sex
+Do you agree or disagree with the following statement 'My school/college has been good at'.'
+Giving me the information to be able to think about the benefits of waiting until I am ready to have sex
+Do you agree or disagree with the following statement 'My school/college has been good at'.'
+Helping me to recognise unhealthy relationships
+Do you agree or disagree with the following statement 'My school/college has been good at'.'
+Do you find your Personal, Social, Health and Economic (PSHE) education lessons useful?
+Do you agree or disagree with the following statement 'My school/college has been good at'.'
+Do you agree or disagree with the following statement that' 'At this school, visitors who support Personal, Social, Health and Economic (PSHE) education in lessons or assemblies are useful and teach me new things.'
+Do you agree or disagree with the following statement 'My school/college has been good at'.'
+Racism
+How good do you think your school/college are at dealing with the following?
+People from different backgrounds not getting on well
+How good do you think your school/college are at dealing with the following?
+Biphobic bullying
+How good do you think your school/college are at dealing with the following?
+Transphobic bullying
+How good do you think your school/college are at dealing with the following?
+Pupils/students sharing nude pictures or videos
+How good do you think your school/college are at dealing with the following?
+Smoking
+How good do you think your school/college are at dealing with the following?
+Social, Emotional and Mental Health Issues
+How good do you think your school/college are at dealing with the following?
+Drugs (including volatile substances e.g. glues, gases or solvents)
+How good do you think your school/college are at dealing with the following?
+Sexism
+How good do you think your school/college are at dealing with the following?
+Gangs
+How good do you think your school/college are at dealing with the following?
+Bullying including cyber-bulling
+How good do you think your school/college are at dealing with the following?
+Homophobic bullying
+How good do you think your school/college are at dealing with the following?
+Responding to climate change/emergency
+How good do you think your school/college are at dealing with the following?
+Pupils/students carrying knives/weapons
+How good do you think your school/college are at dealing with the following?
+Pupils/students with radicalist/extremist views
+How good do you think your school/college are at dealing with the following?
+Poor behaviour
+How good do you think your school/college are at dealing with the following?
+Alcohol
+How good do you think your school/college are at dealing with the following?
+How good is your school/college at encouraging you to have a healthy lifestyle?
+How good do you think your school/college are at dealing with the following?
+Have you learnt anything about the importance of eating healthily ? (e.g. through lessons at school/college)
+How good do you think your school/college are at dealing with the following?
+Have you learnt anything about the importance of cooking healthy meals? (e.g. through lessons at school/college)
+How good do you think your school/college are at dealing with the following?
+Have you learnt anything about the importance of being physically active? (e.g. through lessons at school/college)
+How good do you think your school/college are at dealing with the following?
+Have you learnt anything about climate change? (e.g. through lessons at school/college)
+How good do you think your school/college are at dealing with the following?
+Have you learnt anything about the risks of drugs? (e.g. through lessons at school/college)
+How good do you think your school/college are at dealing with the following?
+Have you learnt anything about the risks of  alcohol? (e.g. through lessons at school/college)
+How good do you think your school/college are at dealing with the following?
+Have you learnt anything about the risks of smoking? (e.g. through lessons at school/college)
+How good do you think your school/college are at dealing with the following?
+Have you learnt anything about feelings & mental health? (e.g. through lessons at school/college)
+How good do you think your school/college are at dealing with the following?
+Have you learnt anything about self-harm? (often referred to as hurting yourself deliberately)
+How good do you think your school/college are at dealing with the following?
+Have you learnt anything about how to cope with a death? (e.g. through lessons at school/college)
+How good do you think your school/college are at dealing with the following?
+Have you learnt anything about loneliness?
+How good do you think your school/college are at dealing with the following?
+Have you learnt anything about bullying (including online) and ways to stop it happening in school/college? (e.g. through lessons at school/college)
+How good do you think your school/college are at dealing with the following?
+Have you learnt anything about staying safe on the internet? (e.g. through lessons at school/college)
+How good do you think your school/college are at dealing with the following?
+Have you learnt anything about gambling? (e.g. through lessons at school/college)
+How good do you think your school/college are at dealing with the following?
+Have you learnt anything about how to manage money? (e.g. through lessons at school/college)
+How good do you think your school/college are at dealing with the following?
+Have you learnt anything about the risks of getting a lift from a stranger?
+How good do you think your school/college are at dealing with the following?
+Have you learnt anything about how your feelings will change as you grow up? (e.g. through lessons at school/college)
+How good do you think your school/college are at dealing with the following?
+Have you learnt anything about how your body will change as you grow up? (e.g. through lessons at school/college)
+How good do you think your school/college are at dealing with the following?
+Have you learnt anything about keeping clean? (e.g. through lessons at school/college)
+How good do you think your school/college are at dealing with the following?
+Have you learnt anything about safe and unsafe relationships? (e.g. through lessons at school/college)
+How good do you think your school/college are at dealing with the following?
+Have you learned anything about different types of families?
+How good do you think your school/college are at dealing with the following?
+Have you learnt anything about relationships and sex? (e.g. through lessons at school/college)
+How good do you think your school/college are at dealing with the following?
+Have you learned anything about different kinds of sexual orientation?
+How good do you think your school/college are at dealing with the following?
+Have you learnt anything about how babies are made and born? (e.g. through lessons at school/college)
+How good do you think your school/college are at dealing with the following?
+Have you learnt anything about using contraception? (e.g. through lessons at school/college)
+How good do you think your school/college are at dealing with the following?
+Have you learnt anything about avoiding Sexual Transmitted Infections (eg. Chlamydia), HIV, AIDS? (e.g. through lessons at school/college)
+How good do you think your school/college are at dealing with the following?
+Have you learnt anything about Homophobic/Biphobic/Transphobic bullying and ways to stop it? (e.g. through lessons at school/college)
+How good do you think your school/college are at dealing with the following?
+Have you learnt anything about domestic violence and abusive relationships? (e.g. through lessons at school/college)
+How good do you think your school/college are at dealing with the following?
+Have you learned anything about peer-on-peer abuse?
+How good do you think your school/college are at dealing with the following?
+If anybody sent you hurtful messages, pictures or videos on the internet or on your mobile phone, would you know who to tell?
+How good do you think your school/college are at dealing with the following?
+If you ever felt unsafe would you know where to go for help?
+How good do you think your school/college are at dealing with the following?
+Do you find your Personal, Social, Health and Economic (PSHE) education lessons useful?
+How good do you think your school/college are at dealing with the following?
+Spending more time with my family
+If you enjoyed lockdown, what did you like most about being at home?
+Spending more time online
+If you enjoyed lockdown, what did you like most about being at home?
+Learning at my own pace
+If you enjoyed lockdown, what did you like most about being at home?
+Less expectations from teachers
+If you enjoyed lockdown, what did you like most about being at home?
+Home learning
+If you enjoyed lockdown, what did you like most about being at home?
+Not having to travel on public transport
+If you enjoyed lockdown, what did you like most about being at home?
+Not having to complete exams/tests
+If you enjoyed lockdown, what did you like most about being at home?
+Spending more time with my pets
+If you enjoyed lockdown, what did you like most about being at home?
+Not being bullied
+If you enjoyed lockdown, what did you like most about being at home?
+Not having to worry about money
+If you enjoyed lockdown, what did you like most about being at home?
+I did not like being at home
+If you enjoyed lockdown, what did you like most about being at home?
+Having more quiet time
+If you enjoyed lockdown, what did you like most about being at home?
+Able to eat what I like when I like
+If you enjoyed lockdown, what did you like most about being at home?
+Having more time for myself
+If you enjoyed lockdown, what did you like most about being at home?
+Sleeping more
+If you enjoyed lockdown, what did you like most about being at home?
+Having my own routine
+If you enjoyed lockdown, what did you like most about being at home?
+Spending more time online with my friends
+If you enjoyed lockdown, what did you like most about being at home?
+Spending more time online with my wider family
+If you enjoyed lockdown, what did you like most about being at home?
+Able to be as physically active as I want to be
+If you enjoyed lockdown, what did you like most about being at home?
+Other
+If you enjoyed lockdown, what did you like most about being at home?
+Doing more things that made me feel better/happier
+If you enjoyed lockdown, what did you like most about being at home?
+Teacher's expectations of me when I get back to school
+If you felt worried during lockdown, what did you worry about most?
+How my grades will be assessed
+If you felt worried during lockdown, what did you worry about most?
+Falling behind in my school work
+If you felt worried during lockdown, what did you worry about most?
+My own feelings (mental and emotional health)
+If you felt worried during lockdown, what did you worry about most?
+Having suicidal thoughts
+If you felt worried during lockdown, what did you worry about most?
+My exam results
+If you felt worried during lockdown, what did you worry about most?
+Leaving primary/high school/college
+If you felt worried during lockdown, what did you worry about most?
+Me making other people ill with Coronavirus
+If you felt worried during lockdown, what did you worry about most?
+My family's mental and emotional health
+If you felt worried during lockdown, what did you worry about most?
+Having enough money
+If you felt worried during lockdown, what did you worry about most?
+Falling behind in my learning
+If you felt worried during lockdown, what did you worry about most?
+Catching up at school
+If you felt worried during lockdown, what did you worry about most?
+Home learning
+If you felt worried during lockdown, what did you worry about most?
+Losing the things I do to relax e.g., clubs, exercise classes, etc
+If you felt worried during lockdown, what did you worry about most?
+House prices going up
+If you felt worried during lockdown, what did you worry about most?
+Not seeing friends
+If you felt worried during lockdown, what did you worry about most?
+Not seeing my boyfriend/girlfriend
+If you felt worried during lockdown, what did you worry about most?
+University costs going up
+If you felt worried during lockdown, what did you worry about most?
+Having enough to eat
+If you felt worried during lockdown, what did you worry about most?
+Possibly losing friends
+If you felt worried during lockdown, what did you worry about most?
+Relationship breakdown
+If you felt worried during lockdown, what did you worry about most?
+Me making my family ill with Coronavirus
+If you felt worried during lockdown, what did you worry about most?
+Loss of the routine I have when I'm at school
+If you felt worried during lockdown, what did you worry about most?
+Being in large groups and close to lots of people
+If you felt worried during lockdown, what did you worry about most?
+My own physical health
+If you felt worried during lockdown, what did you worry about most?
+Getting my school work done
+If you felt worried during lockdown, what did you worry about most?
+What school will be like when I get back
+If you felt worried during lockdown, what did you worry about most?
+Missing school
+If you felt worried during lockdown, what did you worry about most?
+Starting high school/6th form/college/university
+If you felt worried during lockdown, what did you worry about most?
+Impact on university and career options
+If you felt worried during lockdown, what did you worry about most?
+Losing my job
+If you felt worried during lockdown, what did you worry about most?
+My family losing their job
+If you felt worried during lockdown, what did you worry about most?
+Experiencing racism
+If you felt worried during lockdown, what did you worry about most?
+Some of my family/friends dying
+If you felt worried during lockdown, what did you worry about most?
+Crime/Anti-social behaviour
+If you felt worried during lockdown, what did you worry about most?
+The future
+If you felt worried during lockdown, what did you worry about most?
+Being bullied
+If you felt worried during lockdown, what did you worry about most?
+Losing/attending my part time job
+If you felt worried during lockdown, what did you worry about most?
+Keeping myself clean
+If you felt worried during lockdown, what did you worry about most?
+I did not worry about anything
+If you felt worried during lockdown, what did you worry about most?
+Other
+If you felt worried during lockdown, what did you worry about most?
+My family becoming sick
+If you felt worried during lockdown, what did you worry about most?
+My home being overcrowded
+If you felt worried during lockdown, what did you worry about most?
+People coughing near me
+If you felt worried during lockdown, what did you worry about most?
+Other
+Today, what are you worrying about most?
+That I cannot do everything I used to do in school
+Today, what are you worrying about most?
+Getting used to a school again
+Today, what are you worrying about most?
+The future
+Today, what are you worrying about most?
+Crime/Anti-social behaviour
+Today, what are you worrying about most?
+Some of my family/friends dying
+Today, what are you worrying about most?
+Experiencing racism
+Today, what are you worrying about most?
+Losing my job
+Today, what are you worrying about most?
+My family losing their job
+Today, what are you worrying about most?
+Getting my school work done
+Today, what are you worrying about most?
+Being bullied
+Today, what are you worrying about most?
+Losing/attending my part time job
+Today, what are you worrying about most?
+I am not worried about anything
+Today, what are you worrying about most?
+My own feelings (mental and emotional health)
+Today, what are you worrying about most?
+My family becoming sick
+Today, what are you worrying about most?
+Me making other people ill with Coronavirus
+Today, what are you worrying about most?
+Impact on university and career options
+Today, what are you worrying about most?
+Starting high school/6th form/college/university
+Today, what are you worrying about most?
+Leaving primary/high school/college
+Today, what are you worrying about most?
+Getting used to a school routine again
+Today, what are you worrying about most?
+How my grades will be assessed
+Today, what are you worrying about most?
+Teacher's expectations of me now that I am back at school
+Today, what are you worrying about most?
+My exam results
+Today, what are you worrying about most?
+Catching up at school
+Today, what are you worrying about most?
+Falling behind in my learning
+Today, what are you worrying about most?
+Home learning
+Today, what are you worrying about most?
+Losing the things I do to relax e.g., clubs, exercise classes, etc.
+Today, what are you worrying about most?
+Having suicidal thoughts
+Today, what are you worrying about most?
+House prices going up
+Today, what are you worrying about most?
+University costs going up
+Today, what are you worrying about most?
+Having enough money
+Today, what are you worrying about most?
+Having enough to eat
+Today, what are you worrying about most?
+Relationship breakdown
+Today, what are you worrying about most?
+Possibly losing friends
+Today, what are you worrying about most?
+Not seeing my boyfriend/girlfriend
+Today, what are you worrying about most?
+Not seeing friends
+Today, what are you worrying about most?
+Being in large groups and close to lots of people
+Today, what are you worrying about most?
+My home being overcrowded
+Today, what are you worrying about most?
+People coughing near me
+Today, what are you worrying about most?
+Me making my family ill with Coronavirus
+Today, what are you worrying about most?
+My family's mental and emotional health
+Today, what are you worrying about most?
+Keeping myself clean
+Today, what are you worrying about most?
+My own physical health
+Today, what are you worrying about most?
+Falling behind in my school work
+Today, what are you worrying about most?
+How has the lockdown affected your feelings?
+Today, what are you worrying about most?
+Keeping a diary/blogging
+What things made you feel better when you were worried during lockdown?
+Talking with friends
+What things made you feel better when you were worried during lockdown?
+Spending time with family
+What things made you feel better when you were worried during lockdown?
+Online counselling
+What things made you feel better when you were worried during lockdown?
+Watching TV/films/YouTube/Netflix
+What things made you feel better when you were worried during lockdown?
+Redecorating a space in your house
+What things made you feel better when you were worried during lockdown?
+Video calls with family
+What things made you feel better when you were worried during lockdown?
+Cooking/Baking
+What things made you feel better when you were worried during lockdown?
+Writing
+What things made you feel better when you were worried during lockdown?
+Social media
+What things made you feel better when you were worried during lockdown?
+Being active
+What things made you feel better when you were worried during lockdown?
+Talking with family
+What things made you feel better when you were worried during lockdown?
+Arts and Crafts
+What things made you feel better when you were worried during lockdown?
+Video calls with friends
+What things made you feel better when you were worried during lockdown?
+Reading/watching the news
+What things made you feel better when you were worried during lockdown?
+Online gaming ' Xbox/PlayStation/Mobile phone
+What things made you feel better when you were worried during lockdown?
+Watching YouTube/Netflix
+What things made you feel better when you were worried during lockdown?
+Gardening
+What things made you feel better when you were worried during lockdown?
+Learning new skills
+What things made you feel better when you were worried during lockdown?
+Finding a new hobby
+What things made you feel better when you were worried during lockdown?
+Reading books
+What things made you feel better when you were worried during lockdown?
+Talking with grown-ups at my school
+What things made you feel better when you were worried during lockdown?
+Being outdoors
+What things made you feel better when you were worried during lockdown?
+Video calls with school
+What things made you feel better when you were worried during lockdown?
+Other
+What things made you feel better when you were worried during lockdown?
+Playing or listening to music
+What things made you feel better when you were worried during lockdown?
+Seeing loved ones at a safe distance that are local
+What things made you feel better when you were worried during lockdown?
+Got rid of a habit
+What things made you feel better when you were worried during lockdown?
+Spending time with pets
+What things made you feel better when you were worried during lockdown?
+Creating and sticking to a routine
+What things made you feel better when you were worried during lockdown?
+Sleeping more
+What things made you feel better when you were worried during lockdown?
+Breathing techniques
+What things made you feel better when you were worried during lockdown?
+Using Kooth/other online chat help
+What things made you feel better when you were worried during lockdown?
+I did not use anything to cope with lockdown
+What things made you feel better when you were worried during lockdown?
+During lockdown, I was:
+What things made you feel better when you were worried during lockdown?
+Have a problem with drugs or alcohol
+During lockdown, did you help to look after somebody in your family because they:
+Other
+During lockdown, did you help to look after somebody in your family because they:
+Are too young to look after themselves (i.e., a brother or sister)
+During lockdown, did you help to look after somebody in your family because they:
+Have  a disability
+During lockdown, did you help to look after somebody in your family because they:
+Have a mental health problem
+During lockdown, did you help to look after somebody in your family because they:
+Were ill with something else
+During lockdown, did you help to look after somebody in your family because they:
+Were ill with coronavirus
+During lockdown, did you help to look after somebody in your family because they:
+Are your child
+During lockdown, did you help to look after somebody in your family because they:
+I have not worried or experienced any of the above
+During lockdown...
+I was worried because there was more arguing/conflict at home
+During lockdown...
+I was worried because there was aggression/fighting at home
+During lockdown...
+I have been deliberately hurt by someone at home
+During lockdown...
+I have lost my 'safe' place away from difficult or dangerous home environments
+During lockdown...
+I have experienced abuse (mental, physical or sexual abuse) at home
+During lockdown...
+I have experienced suicidal thoughts
+During lockdown...
+Yes, someone else who lives in my house (e.g., brother, sister)
+During lockdown, has anyone close to you died?
+Yes, a friend
+During lockdown, has anyone close to you died?
+Yes, someone who is in my family but does not live in the same house as me (e.g., grandparent, aunt, uncle)
+During lockdown, has anyone close to you died?
+No
+During lockdown, has anyone close to you died?
+Yes, one of my parents/carers
+During lockdown, has anyone close to you died?
+Have you been able to talk to your parent(s)/carer(s) when you wanted to?
+During lockdown . . .
+Have your parent(s)/carer(s) had enough time for you?
+During lockdown . . .
+Have you felt loved by your parent(s)/carer(s)?
+During lockdown . . .
+Have your parent(s)/carer(s) treated you fairly?
+During lockdown . . .
+Have your parent(s)/carer(s) understood you?
+During lockdown . . .
+Have you been happy at home?
+During lockdown . . .
+During lockdown, my experience of bullying (including online bullying) was'
+During lockdown . . .
+If you did experience bullying, did you talk to your parent(s)/carer(s)/trusted adult about it?
+During lockdown . . .
+Have you been able to rely on your friends?
+During lockdown'
+Have you and your friends helped each other?
+During lockdown'
+Have you been able to talk with your friends?
+During lockdown'
+During lockdown, which of the following statements describes you . . .
+During lockdown'
+During lockdown, thinking about your time online, have you received a sexual image or video?
+During lockdown'
+During lock down, have you sent a sexual image or video
+During lockdown'
+During lockdown, I was worried because there was more arguing/fighting at home
+During lockdown'
+During lockdown, I was worried because I was deliberately hurt by someone at home
+During lockdown'
+During lockdown, I was worried because I couldn't go to school where I feel safe
+During lockdown'
+During lockdown, has anyone close to you died?
+During lockdown'
+During lockdown, have you felt loved by your parent(s)/carer(s)?
+During lockdown'
+During lockdown, have you been happy at home?
+During lockdown'
+During lockdown, have your parent(s)/carer(s) had enough time for you?
+During lockdown'
+During lockdown, have you been able to talk to your parent(s)/carer(s) when you felt worried or anxious?
+During lockdown'
+During lockdown, were you bullied (including online bullying)?
+During lockdown'
+During lockdown, were you able to talk to your friends?
+During lockdown'
+During lockdown, were you and your friends able to help each other?
+During lockdown'
+During lockdown, if you needed help with the way you were feeling, where did you get it from?
+During lockdown'
+Supported me with my learning
+During lockdown, how much do you agree or disagree with the following statement 'My school/college was good at''
+Helping me to keep myself safe during lockdown
+During lockdown, how much do you agree or disagree with the following statement 'My school/college was good at''
+Helping me to keep myself safe online
+During lockdown, how much do you agree or disagree with the following statement 'My school/college was good at''
+Staying in touch with me
+During lockdown, how much do you agree or disagree with the following statement 'My school/college was good at''
+Being there if I needed them
+During lockdown, how much do you agree or disagree with the following statement 'My school/college was good at''
+During lockdown, if you needed any mental and emotional health support, did the school/college help?
+During lockdown, how much do you agree or disagree with the following statement 'My school/college was good at''
+How to cope with change
+During lockdown, if you needed it, did you get advice or support for the following?
+Bullying  and online bullying
+During lockdown, if you needed it, did you get advice or support for the following?
+How to cope with a separation
+During lockdown, if you needed it, did you get advice or support for the following?
+How to cope with  someone dying
+During lockdown, if you needed it, did you get advice or support for the following?
+Being split between two parents
+During lockdown, if you needed it, did you get advice or support for the following?
+Social, Emotional and Mental Health
+During lockdown, if you needed it, did you get advice or support for the following?
+Gambling
+During lockdown, if you needed it, did you get advice or support for the following?
+Managing money/budgeting
+During lockdown, if you needed it, did you get advice or support for the following?
+Pressure/encouragement to commit a crime
+During lockdown, if you needed it, did you get advice or support for the following?
+Domestic violence and abusive relationships
+During lockdown, if you needed it, did you get advice or support for the following?
+Extremist/hateful online content
+During lockdown, if you needed it, did you get advice or support for the following?
+Housing
+During lockdown, if you needed it, did you get advice or support for the following?
+Child Sexual Exploitation (also known as grooming)
+During lockdown, if you needed it, did you get advice or support for the following?
+Self-harm
+During lockdown, if you needed it, did you get advice or support for the following?
+Support from school
+During lockdown, if you did get advice or support, where did you get it from?
+Support from friends
+During lockdown, if you did get advice or support, where did you get it from?
+Support from family
+During lockdown, if you did get advice or support, where did you get it from?
+I did not need any advice or support
+During lockdown, if you did get advice or support, where did you get it from?
+I needed support but I did not get any
+During lockdown, if you did get advice or support, where did you get it from?
+Telephone support
+During lockdown, if you did get advice or support, where did you get it from?
+Text support
+During lockdown, if you did get advice or support, where did you get it from?
+Online support (including online chat)
+During lockdown, if you did get advice or support, where did you get it from?
+I did not know where to get any help
+During lockdown, if you did get advice or support, where did you get it from?
+Have you felt supported by your school?
+After lockdown...
+Are you enjoying being back at school?
+After lockdown...
+Are you getting on well with your learning?
+After lockdown...
+Are you getting on well with your teachers?
+After lockdown...
+Are you able to concentrate in class?
+After lockdown...
+After lockdown, if you needed it, have you been able to get support from school/college to help you with your emotional and mental health?
+After lockdown...
+During lockdown, my school was good at helping me to keep myself safe
+After lockdown...
+During lockdown, my school was good at staying in touch with me
+After lockdown...
+During lockdown, my school was good at helping me with my school work
+After lockdown...
+After lockdown, are you enjoying being back at school?
+After lockdown...
+After lockdown, are you getting on well with your school work?
+After lockdown...
+After lockdown, are you getting on well with your teachers?
+After lockdown...
+After lockdown, have you felt helped by your teachers?
+After lockdown...
+After lockdown, if you needed it, have you been able to get help from school with your feelings?
+After lockdown...

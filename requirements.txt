@@ -1,0 +1,10 @@
+numpy
+pandas
+plotly
+scikit-learn
+seaborn
+wordcloud
+matplotlib
+ipywidgets
+notebook
+jupyterlab
